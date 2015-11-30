@@ -8,7 +8,7 @@ The CDN is available here: http://cdnjs.com/libraries/p5.js
 <li>rect(x,y,width,height)</li>
 <li>ellipse(x,y,r1,r2)</li>
 <li>line(x1,y1,x2,y2)</li>
-<li></li>
+
 
 <li> strokeWeighto() - Increases the width of the lines, like using a thicker painbrush.</li>
 <li>background(numberBetween0to255) or background(r,g,b)- Background color is set</li>
